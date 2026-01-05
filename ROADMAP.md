@@ -13,7 +13,7 @@
 ## 6–9 Months
 - Advanced analytics built upon existing engines
 - Explore Wallet connect integrations
-- - UI/UX improvements
+- UI/UX improvements
 
 ## 9–12 Months
 - Premium tier subscription
