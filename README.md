@@ -4,7 +4,7 @@ Transparent On-Chain Yield & Risk Analytics for DeFi
 
 📌 Overview
 
-DeFiStar is an independent DeFi analytics platform focused on stablecoin lending yields and risk transparency, built using direct on-chain blockchain RPC data avoiding third-party aggregators.
+DeFiStar.io is an independent DeFi analytics platform focused on stablecoin lending yields and risk transparency, built using direct on-chain blockchain RPC data avoiding third-party aggregators.
 
 This repository will contain documentation, methodology, and reference material describing how DeFiStar.io sources, normalises, and analyses on-chain data to produce reliable yield and risk insights for the Ethereum ecosystem.
 
@@ -55,14 +55,13 @@ Not included:
 
 ❌ Production backend code
 ❌ Private infrastructure
-❌ Proprietary weighting parameters and algorithms
+❌ Proprietary algorithms
 
 This balance allows transparency without compromising security or sustainability.
 
 🏗️ Architecture Overview (High Level)
 
 Blockchain RPC Nodes
-
 Ethereum + major L2s
 Protocol Smart Contracts
 Aave V3, Compound V3, Morpho, Spark, etc.
@@ -102,15 +101,14 @@ Rate change frequency
 Historical reliability patterns
 
 ⚠️ Scores are informational, not financial advice.
-🌍 Public Goods Commitment
+🌍 Public Good Commitment
 
-DeFiStar.io is built as neutral infrastructure for the Ethereum ecosystem.
+DeFiStar.io is built as neutral infrastructure for the Ethereum ecosystem and wider DeFi ecosystems.
 
 Core analytics remain free and publicly accessible
 Focus on education, safety, and transparency
 
 Designed to support researchers, DAOs, and users
-
 Expand public knowledge
 Improve data transparency
 Reduce information asymmetry in DeFi
