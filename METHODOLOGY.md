@@ -11,7 +11,9 @@ DeFiStar does not rely on third-party aggregators or intermediary APIs. Instead,
 This approach ensures that all displayed metrics — including yield and Total Value Locked (TVL) — are:
 
 Not cached beyond design
+
 Not delayed
+
 Directly verifiable on-chain
 Direct Smart Contract Querying
 
