@@ -8,7 +8,7 @@ Direct Blockchain Access
 
 DeFiStar does not rely on third-party aggregators or intermediary APIs. Instead, we perform direct Remote Procedure Calls (RPC) to blockchain nodes across more than nine supported networks.
 
-This approach ensures that all displayed metrics — including yield and Total Value Locked (TVL) — are:
+This approach ensures that all displayed metrics, including yield and Total Value Locked (TVL), are:
 
 Not cached beyond design
 
