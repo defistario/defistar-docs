@@ -2,7 +2,6 @@
 
 ## 0–3 Months
 - Publish documentation
-- Allow users to custom query database and download historical APY/TVL data
 - UI/UX improvements
 
 ## 3–6 Months
@@ -23,6 +22,7 @@
 ## 12–18 Months
 - Controlled advertising system
 - Community analytics contributions
+- Allow users to custom query database and download historical APY/TVL data
 
 📜 License
 
