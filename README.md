@@ -17,7 +17,9 @@ Our mission is to make DeFi safer, more transparent, and easier to understand, e
 We believe:
 
 On-chain data should be sourced directly from the blockchain
+
 Analytics tools should be neutral and unbiased
+
 Users deserve clear risk context, not just headline APYs
 
 🔍 What Makes DeFiStar.io different
