@@ -26,7 +26,9 @@ Users deserve clear risk context, not just headline APYs
 
 Analytics platforms tend to rely on third-party aggregators and APIs, which can:
 Introduce latency or inaccuracies
+
 Apply opaque filtering or assumptions
+
 Create hidden dependencies
 
 DeFiStar.io bypasses aggregators entirely.
