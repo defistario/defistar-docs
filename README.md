@@ -12,7 +12,7 @@ This repository will contain documentation, methodology, and reference material 
 
 🎯 Mission
 
-Our mission is to make DeFi safer, more transparent, and easier to understand, especially for users seeking sustainable yield on blue-chip stablecoins.
+Our mission is to make DeFi safer, more transparent, and easier to understand, especially for users seeking information about stablecoin yields.
 
 We believe:
 
