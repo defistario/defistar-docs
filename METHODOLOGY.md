@@ -38,9 +38,6 @@ Utilisation Stress is calculated as:
 Total Borrowed / Total Supplied
 Utilisation ratios exceeding 90% indicate liquidity strain and trigger immediate safety warnings, as high utilisation increases withdrawal and liquidation risk.
 
-Market Sentiment
-Market sentiment is derived using Least Squares Linear Regression applied to rolling 48-hour data snapshots. This allows us to estimate short-term market direction and identify accelerating or decelerating trends in lending demand.
-
 3. Risk Radar & Safety Score
 
 Protocol safety is assessed through a combination of automated audits and historical analysis. The Safety Score (0–100) is calculated using a weighted model across three core dimensions:
@@ -60,7 +57,7 @@ These penalties are designed to highlight structural risk, not short-term opport
 4. Stablecoin & Oracle Verification
 
 DeFiStar.io does not rely solely on displayed prices. Stablecoin health is verified through on-chain price oracles, queried directly within the same environment used by lending protocols themselves.
-This approach allows DeFiStar to detect:
+This approach allows DeFiStar.io to detect:
 Early de-pegging events
 Oracle-level price deviations
 Risk conditions that precede protocol liquidations
